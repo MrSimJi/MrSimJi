@@ -1,6 +1,6 @@
   _________________________________
  |                                 |
- |  >_ Hello, I'm [Your Name]!     |
+ |  >_ Hello, I'm SamJiji!         |
  |                                 |
  |  Computer Science Student       |
  |  and Aspiring Programmer        |
